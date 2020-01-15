@@ -7,4 +7,4 @@ The assignment is grade by looking for:
 - Error message for quantity = 0 in any of the rentals.
 - Warning for rentals missing end_date.
 - And others...
-2. Run linting using the regular batch file.
+2. Run linting using your IDE or the pylint command
